@@ -8,7 +8,7 @@
 -Discord Nitro Generator!!
 
 
-`You can recommend what to add in Issues!`
+`You can recommend what to add in my discord server down below!`
 
 ## Usage:
 1. Download file as .zip
