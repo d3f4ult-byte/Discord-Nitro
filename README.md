@@ -12,12 +12,11 @@
 
 ## Usage:
 
-1. Config settings and token in `config.json`
-2. Open install.bat or install.sh (It is preferable to use a [virtual environment](https://docs.python.org/3/library/venv.html), due to the conflict between regular discord.py and discord.py-self)
-3. Open launch.bat or launch.sh
+1.Open "Discord-Nitro" .exe or .py (I recomend the .py version but .exe works just as fine
 4. All set :)
-redeemed
+
 
 ### 🧰 Support
 - Email: <fulgermcquin1@gmail.com>
 - Discord: https://discord.gg/S5aKqqpqzv
+- Made by D3f4ult
