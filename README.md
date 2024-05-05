@@ -12,8 +12,11 @@
 
 ## Usage:
 
-1.Open "Discord-Nitro" .exe or .py (I recomend the .py version but .exe works just as fine
-4. All set :)
+1. Download code as .zip
+
+2.Open "Discord-Nitro" .exe or .py (I recomend the .py version but .exe works just as fine
+
+3. All set :)
 
 
 ### 🧰 Support
