@@ -11,13 +11,10 @@
 `You can recommend what to add in Issues!`
 
 ## Usage:
-
-1. Download code as .zip
-
-2.Open "Discord-Nitro" .exe or .py (I recomend the .py version but .exe works just as fine
-
+1. Download file as .zip
+2. Extract all files
+3. Open "Discord-Nitro" .exe or .py (I recomend the .py version but .exe works just as fine
 4. All set :)
-
 
 ### 🧰 Support
 - Email: <fulgermcquin1@gmail.com>
