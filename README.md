@@ -16,7 +16,7 @@
 
 2.Open "Discord-Nitro" .exe or .py (I recomend the .py version but .exe works just as fine
 
-3. All set :)
+4. All set :)
 
 
 ### 🧰 Support
